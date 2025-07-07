@@ -1,0 +1,2 @@
+# sistema_gerenciador_de_funcionario
+Sistema de Gerenciamento de Funcionários em Python  #Descrição Solução desenvolvida em Python para gerenciamento de colaboradores, implementando as operações básicas de um CRUD (Create, Read, Update, Delete) através de um menu interativo no console.  #Funcionalidades Principais - Cadastro de Funcionários:   - Armazena nome, setor e salário   - Gera IDs únicos automaticamente - Consultas:   - Listagem completa de funcionários   - Busca por ID específico   - Filtro por setor - Remoção de registros por ID
